@@ -8,7 +8,7 @@ A remote [MCP](https://modelcontextprotocol.io) server that lets a whole team's
 AI coding agents — Claude Code, Codex, Cursor, anything that speaks MCP — save
 and recall hard-won context across sessions, machines, and people.
 
-[![CI](https://github.com/CODEPRESS-SRL/archivist/actions/workflows/ci.yml/badge.svg)](https://github.com/CODEPRESS-SRL/archivist/actions/workflows/ci.yml)
+[![CI](https://github.com/Schengatto/archivist/actions/workflows/ci.yml/badge.svg)](https://github.com/Schengatto/archivist/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/archivist-connect)](https://www.npmjs.com/package/archivist-connect)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -179,7 +179,7 @@ A single-user server on `localhost`: no domain, no TLS, no `make` needed. You
 need the [prerequisites](#prerequisites) above.
 
 ```bash
-git clone https://github.com/CODEPRESS-SRL/archivist
+git clone https://github.com/Schengatto/archivist
 cd archivist
 docker compose up -d --build
 ```

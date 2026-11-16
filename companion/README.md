@@ -98,7 +98,7 @@ is safe (idempotent). The manual steps below remain available if you prefer them
 **Marketplace:**
 
 ```bash
-/plugin marketplace add CODEPRESS-SRL/archivist
+/plugin marketplace add Schengatto/archivist
 /plugin install archivist-companion@archivist-tools
 ```
 

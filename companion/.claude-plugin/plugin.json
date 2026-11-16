@@ -3,11 +3,11 @@
   "description": "Auto-capture at session end, sweep pending compactions, and inject a project memory index at session start for the Archivist MCP server.",
   "version": "1.1.0",
   "author": {
-    "name": "Codepress S.r.l.",
-    "url": "https://github.com/CODEPRESS-SRL"
+    "name": "Enrico Schintu",
+    "url": "https://github.com/Schengatto"
   },
-  "homepage": "https://github.com/CODEPRESS-SRL/archivist/tree/main/companion#readme",
-  "repository": "https://github.com/CODEPRESS-SRL/archivist",
+  "homepage": "https://github.com/Schengatto/archivist/tree/main/companion#readme",
+  "repository": "https://github.com/Schengatto/archivist",
   "license": "MIT",
   "keywords": ["archivist", "memory", "mcp"]
 }
