@@ -9,7 +9,7 @@ and ship a dedicated test with any such change.
 
 **Please do not open a public issue for security vulnerabilities.** Report them
 through GitHub Private Vulnerability Reporting:
-<https://github.com/CODEPRESS-SRL/archivist/security/advisories/new>. Include
+<https://github.com/Schengatto/archivist/security/advisories/new>. Include
 enough detail to reproduce (affected version/commit, steps, and impact). A fix
 or mitigation will be coordinated before any public disclosure. Responsible
 disclosure is appreciated.

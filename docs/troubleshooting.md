@@ -131,5 +131,5 @@ serve the console over HTTPS (as the production stack does).
   answers.
 
 Still stuck? Open an issue at
-<https://github.com/CODEPRESS-SRL/archivist/issues> with the output of
+<https://github.com/Schengatto/archivist/issues> with the output of
 `docker compose logs api` (remove any key first).

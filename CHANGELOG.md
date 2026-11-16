@@ -210,5 +210,5 @@ Initial release: the v1 MVP, deployed and dogfooded.
 Versions 1.0.0 and 1.1.0 were released before the public history began, so
 they have no tags or release pages. 1.2.0 is the first tagged release.
 
-[Unreleased]: https://github.com/CODEPRESS-SRL/archivist/compare/v1.2.0...HEAD
-[1.2.0]: https://github.com/CODEPRESS-SRL/archivist/releases/tag/v1.2.0
+[Unreleased]: https://github.com/Schengatto/archivist/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/Schengatto/archivist/releases/tag/v1.2.0
