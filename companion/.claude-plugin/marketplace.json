@@ -1,6 +1,6 @@
 {
   "name": "archivist-tools",
-  "owner": { "name": "Codepress S.r.l.", "url": "https://github.com/CODEPRESS-SRL" },
+  "owner": { "name": "Enrico Schintu", "url": "https://github.com/Schengatto" },
   "plugins": [
     {
       "name": "archivist-companion",

@@ -5,17 +5,17 @@
   "type": "module",
   "license": "MIT",
   "author": {
-    "name": "Codepress S.r.l.",
-    "url": "https://github.com/CODEPRESS-SRL"
+    "name": "Enrico Schintu",
+    "url": "https://github.com/Schengatto"
   },
-  "homepage": "https://github.com/CODEPRESS-SRL/archivist/tree/main/companion#readme",
+  "homepage": "https://github.com/Schengatto/archivist/tree/main/companion#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CODEPRESS-SRL/archivist.git",
+    "url": "git+https://github.com/Schengatto/archivist.git",
     "directory": "companion"
   },
   "bugs": {
-    "url": "https://github.com/CODEPRESS-SRL/archivist/issues"
+    "url": "https://github.com/Schengatto/archivist/issues"
   },
   "keywords": [
     "archivist",
